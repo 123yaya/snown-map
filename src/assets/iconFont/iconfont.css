@@ -1,0 +1,187 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3311484 */
+  src: url('iconfont.woff2?t=1664268539058') format('woff2'),
+       url('iconfont.woff?t=1664268539058') format('woff'),
+       url('iconfont.ttf?t=1664268539058') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-tuichuzhuanhuan:before {
+  content: "\e629";
+}
+
+.icon-quanping:before {
+  content: "\e62a";
+}
+
+.icon-dingwei:before {
+  content: "\f5c4";
+}
+
+.icon-guanbi:before {
+  content: "\e607";
+}
+
+.icon-shipin:before {
+  content: "\e611";
+}
+
+.icon-shuizha:before {
+  content: "\e62d";
+}
+
+.icon-bengzhan:before {
+  content: "\e62e";
+}
+
+.icon-yuliangzhan:before {
+  content: "\e636";
+}
+
+.icon-wushuichulichang:before {
+  content: "\e612";
+}
+
+.icon-yeweifuqiu:before {
+  content: "\e613";
+}
+
+.icon-wushuichulichang1:before {
+  content: "\e738";
+}
+
+.icon-paishuihu:before {
+  content: "\e740";
+}
+
+.icon-wushuichang4:before {
+  content: "\e618";
+}
+
+.icon-shuizhijiance:before {
+  content: "\e638";
+}
+
+.icon-zhongdianpaishuihu:before {
+  content: "\e7e5";
+}
+
+.icon-a-iconguandao:before {
+  content: "\e614";
+}
+
+.icon-suoxiao:before {
+  content: "\e63a";
+}
+
+.icon-fangda:before {
+  content: "\e63b";
+}
+
+.icon-huanyuanhuabu:before {
+  content: "\e60e";
+}
+
+.icon-jieshu:before {
+  content: "\e6ec";
+}
+
+.icon-kaishi:before {
+  content: "\e610";
+}
+
+.icon-bofangzhong:before {
+  content: "\e68f";
+}
+
+.icon-diyigeshipin:before {
+  content: "\e60d";
+}
+
+.icon-zuihouyigeshipin:before {
+  content: "\e60f";
+}
+
+.icon-shangyibu:before {
+  content: "\e621";
+}
+
+.icon-xiayibu:before {
+  content: "\e622";
+}
+
+.icon-system_tool:before {
+  content: "\e60c";
+}
+
+.icon-monitor_warn:before {
+  content: "\e60b";
+}
+
+.icon-system:before {
+  content: "\e60a";
+}
+
+.icon-one_map:before {
+  content: "\e609";
+}
+
+.icon-information_release:before {
+  content: "\e608";
+}
+
+.icon-basic_information:before {
+  content: "\e606";
+}
+
+.icon-facility_maintenance:before {
+  content: "\e604";
+}
+
+.icon-water_quality_monitor:before {
+  content: "\e603";
+}
+
+.icon-comprehensive_display:before {
+  content: "\e602";
+}
+
+.icon-lixian:before {
+  content: "\e73e";
+}
+
+.icon-jianceyujing:before {
+  content: "\e605";
+}
+
+.icon-guanxian:before {
+  content: "\e61c";
+}
+
+.icon-gistuceng:before {
+  content: "\e7b5";
+}
+
+.icon-gftuceng:before {
+  content: "\e7cc";
+}
+
+.icon-mubiaojianceshezhi:before {
+  content: "\ee23";
+}
+
+.icon-xiangxiajiantou:before {
+  content: "\e61f";
+}
+
+.icon-xiangshangjiantou:before {
+  content: "\e620";
+}
+

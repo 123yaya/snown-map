@@ -1,0 +1,310 @@
+{
+  "id": "3311484",
+  "name": "yjsps",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "延吉市排水防涝管理系统",
+  "glyphs": [
+    {
+      "icon_id": "7913338",
+      "name": "退出全屏 ",
+      "font_class": "tuichuzhuanhuan",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "7913439",
+      "name": "全屏 ",
+      "font_class": "quanping",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "21816564",
+      "name": "定位",
+      "font_class": "dingwei",
+      "unicode": "f5c4",
+      "unicode_decimal": 62916
+    },
+    {
+      "icon_id": "1695409",
+      "name": "关闭",
+      "font_class": "guanbi",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "1244755",
+      "name": "视频",
+      "font_class": "shipin",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "2116687",
+      "name": "水闸",
+      "font_class": "shuizha",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "2116691",
+      "name": "泵站",
+      "font_class": "bengzhan",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "2167152",
+      "name": "雨量站",
+      "font_class": "yuliangzhan",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "5439268",
+      "name": "污水处理厂",
+      "font_class": "wushuichulichang",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "14510479",
+      "name": "液位浮球",
+      "font_class": "yeweifuqiu",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "18002303",
+      "name": "污水处理厂",
+      "font_class": "wushuichulichang1",
+      "unicode": "e738",
+      "unicode_decimal": 59192
+    },
+    {
+      "icon_id": "18004461",
+      "name": "排水户",
+      "font_class": "paishuihu",
+      "unicode": "e740",
+      "unicode_decimal": 59200
+    },
+    {
+      "icon_id": "18056808",
+      "name": "污水厂4",
+      "font_class": "wushuichang4",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "21014535",
+      "name": "水质监测",
+      "font_class": "shuizhijiance",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "26805951",
+      "name": "重点排水户",
+      "font_class": "zhongdianpaishuihu",
+      "unicode": "e7e5",
+      "unicode_decimal": 59365
+    },
+    {
+      "icon_id": "29358707",
+      "name": "icon／管道",
+      "font_class": "a-iconguandao",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "4997613",
+      "name": "缩小",
+      "font_class": "suoxiao",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "4997614",
+      "name": "放大",
+      "font_class": "fangda",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    },
+    {
+      "icon_id": "15726793",
+      "name": "还原画布",
+      "font_class": "huanyuanhuabu",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "2733963",
+      "name": "结束",
+      "font_class": "jieshu",
+      "unicode": "e6ec",
+      "unicode_decimal": 59116
+    },
+    {
+      "icon_id": "10885288",
+      "name": "开始",
+      "font_class": "kaishi",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "18939003",
+      "name": "播放中",
+      "font_class": "bofangzhong",
+      "unicode": "e68f",
+      "unicode_decimal": 59023
+    },
+    {
+      "icon_id": "22334210",
+      "name": "第一个视频",
+      "font_class": "diyigeshipin",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "22334254",
+      "name": "最后一个视频",
+      "font_class": "zuihouyigeshipin",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "26771449",
+      "name": "上一步",
+      "font_class": "shangyibu",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "26771461",
+      "name": "下一步",
+      "font_class": "xiayibu",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "29151451",
+      "name": "系统工具",
+      "font_class": "system_tool",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "29150257",
+      "name": "监测预警",
+      "font_class": "monitor_warn",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "29150156",
+      "name": "系统管理",
+      "font_class": "system",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "29150127",
+      "name": "一张图",
+      "font_class": "one_map",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "29150083",
+      "name": "信息发布",
+      "font_class": "information_release",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "29150024",
+      "name": "基础信息",
+      "font_class": "basic_information",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "29149841",
+      "name": "设施养护",
+      "font_class": "facility_maintenance",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "29149753",
+      "name": "水质监测站",
+      "font_class": "water_quality_monitor",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "29149675",
+      "name": "大屏展示",
+      "font_class": "comprehensive_display",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "4933356",
+      "name": "离线",
+      "font_class": "lixian",
+      "unicode": "e73e",
+      "unicode_decimal": 59198
+    },
+    {
+      "icon_id": "22162286",
+      "name": "监测预警",
+      "font_class": "jianceyujing",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "5567124",
+      "name": "管线",
+      "font_class": "guanxian",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "10465903",
+      "name": "gis图层",
+      "font_class": "gistuceng",
+      "unicode": "e7b5",
+      "unicode_decimal": 59317
+    },
+    {
+      "icon_id": "12392666",
+      "name": "gf图层3",
+      "font_class": "gftuceng",
+      "unicode": "e7cc",
+      "unicode_decimal": 59340
+    },
+    {
+      "icon_id": "22385744",
+      "name": "目标检测设置",
+      "font_class": "mubiaojianceshezhi",
+      "unicode": "ee23",
+      "unicode_decimal": 60963
+    },
+    {
+      "icon_id": "625966",
+      "name": "31-向下箭头",
+      "font_class": "xiangxiajiantou",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "625967",
+      "name": "32-向上箭头",
+      "font_class": "xiangshangjiantou",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    }
+  ]
+}
